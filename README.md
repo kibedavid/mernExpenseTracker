@@ -1,6 +1,4 @@
-# mernExpenseTracker
-
-# Expense Tracker (MERN)
+# MernExpenseTracker
 
 > Full stack expense tracker
 
